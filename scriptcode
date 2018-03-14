@@ -1,4 +1,4 @@
-// pulls all values form a dict/Object and pushes them into an array
+// pulls all values form a dict / Object and pushes them into an array
 
 function getValuesFromObject(obj){
 	var values = [];
